@@ -35,3 +35,10 @@ A modern, responsive educational website designed for **Code99 IT Academy**, bui
 
 ## 📂 Project Structure
 
+├── index.html
+├── style.css
+├── index.js
+├── assets/
+│ ├── images/
+│ └── videos/
+
